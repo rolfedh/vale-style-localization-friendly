@@ -1,0 +1,1 @@
+# vale-style-localization-friendly
